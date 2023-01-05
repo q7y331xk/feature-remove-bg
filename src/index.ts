@@ -1,10 +1,9 @@
 import axios from 'axios';
 import FormData from 'form-data';
 import * as fs from 'fs';
-// const axios = require('axios');
 
 const API_KEY = 'Dp86ashSRsvJmcR26cEoysjd';
-const TEST_IMG_URL = 'https://www.remove.bg/example.jpg';
+const TEST_IMG_URL = 'https://cbu01.alicdn.com/img/ibank/O1CN01dxxGmA1J5Vks5SZzj_!!2212468290977-0-cib.jpg';
 
 const formData = new FormData();
 formData.append('size', 'auto');
