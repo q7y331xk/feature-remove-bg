@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^1.2.2"
+  },
+  "name": "remove-bg",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q7y331xk/feature-remove-bg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/q7y331xk/feature-remove-bg/issues"
+  },
+  "homepage": "https://github.com/q7y331xk/feature-remove-bg#readme"
+}
